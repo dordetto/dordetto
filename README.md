@@ -1,8 +1,8 @@
 ### Hello Folks! :smiley:
 
-My name is Fabio Dordetto do Brasil (🇧🇷). I have been working with I.T. since 1996 and currently I have been learning codes like javascript and its entire universe like ReacJs, React Native, Node.Js and counting...
+My name is Fabio Dordetto from Brazil. I have been working with I.T. since 1996 and currently I have been learning codes like javascript and its entire universe like ReacJs, React Native, Node.Js and counting...
 
-In my free time, I like to be with my friends to have good conversations. Beer (🍺) and a good *Churrasco* (:meat_on_bone:) help us.
+In my free time, I like to be with my friends having a good talk when beer (:beer:) and a good *Churrasco* (:meat_on_bone:) helps.
 
 Find me at:
 
