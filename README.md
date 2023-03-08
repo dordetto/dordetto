@@ -2,7 +2,7 @@
 
 My name is Fabio Dordetto from Brazil in Canada. I have been working with I.T. since 1996, and currently, I have been working with javascript and its entire universes like ReacJs, Vue, React Native, Node.Js and counting...
 
-In my free time, I like to be with my friends having a good talk when drinks (:beer:) (:tropical_drink:) and a good *Churrasco* (:meat_on_bone:) helps.
+In my free time, I like to be with my friends having a good talk when drinks (:beer: :tropical_drink:) and a good *Churrasco* (:meat_on_bone:) helps.
 
 Find me at:
 
